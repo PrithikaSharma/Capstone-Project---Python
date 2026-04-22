@@ -1,4 +1,4 @@
-**Capstone Project – Python (Feb 2026)**
+****Capstone Project – Python (Feb 2026)****
 
 This project focused on leveraging Python libraries (NumPy, Pandas) to build a structured data analysis solution and generate actionable reports.
 
